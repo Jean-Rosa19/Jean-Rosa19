@@ -1,20 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Jean-Rosa19/Jean-Rosa19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const name = 'Jean Rosa';
+document.write("Hello World");
 
-Here are some ideas to get you started:
+var status = 
+{ 
+  learning : [JavaScript, React],
+  interests: [Education, Research, Information Security, Programming]
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+const skills = 
+{
+  languages :[Javascript, React, CSS, HTML],
+ 
+}
 
 
 <div align="center">
