@@ -5,13 +5,18 @@ const name = 'Jean Rosa';
 document.write("Hello World");
 
 var status = 
+
 { 
+
   learning : [JavaScript, React],
   interests: [Education, Research, Information Security, Programming]
+  
 }
 
 const skills = 
+
 {
+
   languages :[Javascript, React, CSS, HTML],
  
 }
