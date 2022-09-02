@@ -9,7 +9,8 @@ var status =
 { 
 
   learning : [JavaScript, React],
-  interests: [Education, Research, Information Security, Programming]
+  
+  interests: [Education, Research, Programming]
   
 }
 
