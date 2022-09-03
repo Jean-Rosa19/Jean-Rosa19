@@ -1,26 +1,22 @@
 ### Hi there 👋
 
+```js
 const name = 'Jean Rosa';
-
 document.write("Hello World");
 
-var status = 
-
+let status = 
 { 
-
   learning : [JavaScript, React],
-  
   interests: [Education, Research, Programming]
-  
 }
 
 const skills = 
-
 {
-
-  languages :[Javascript, React, CSS, HTML],
+  languages :[Javascript,React, HTML],
  
 }
+
+```
 
 
 <div align="center">
