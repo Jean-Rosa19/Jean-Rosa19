@@ -6,13 +6,13 @@ document.write("Hello World");
 
 let status = 
 { 
-  learning : [JavaScript, React],
+  learning : [JavaScript, React, Node.js],
   interests: [Education, Research, Programming]
 }
 
 const skills = 
 {
-  languages :[Javascript,React, HTML],
+  languages :[Javascript, React, HTML, MySQL, Docker],
  
 }
 
