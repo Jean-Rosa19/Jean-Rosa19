@@ -5,13 +5,13 @@ const name = 'Jean Rosa';
 
 let status = 
 { 
-  learning : [JavaScript, React, Node.js],
+  learning : [JavaScript, React, Node.js, Typescript],
   interests: [Education, Research, Programming]
 }
 
 const skills = 
 {
-  languages :[Javascript, React, HTML, MySQL, Docker],
+  technologies:[Javascript, React, HTML, MySQL, Docker, Node.js, Express.js, Sequelize],
  
 }
 
