@@ -2,7 +2,6 @@
 
 ```js
 const name = 'Jean Rosa';
-document.write("Hello World");
 
 let status = 
 { 
