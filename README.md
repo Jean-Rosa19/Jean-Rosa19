@@ -11,7 +11,7 @@ let status =
 
 const skills = 
 {
-  technologies:[Javascript, React, HTML, MySQL, Docker, Node.js, Express.js, Sequelize, TypeScript],
+  technologies:[Javascript, TypeScript, MondoDb, HTML, MySQL, Docker, Node.js, Express.js, Sequelize, React],
  
 }
 
