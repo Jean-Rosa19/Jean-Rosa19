@@ -5,7 +5,7 @@ const name = 'Jean Rosa';
 
 let status = 
 { 
-  learning : [Java, React, Node.js, Typescript, AWS],
+  learning : [<i class="fab fa-java" style="line-height: 1; color: rgb(30, 48, 80);"></i>, React, Node.js, Typescript, AWS],
   interests: [Education, Research, Programming]
 }
 
